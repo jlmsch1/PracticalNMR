@@ -1,6 +1,0 @@
-name: practicalnmr
-channels:
-  - conda-forge
-dependencies:
-  - numpy
-  - matplotlib
